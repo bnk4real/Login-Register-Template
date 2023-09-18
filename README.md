@@ -1,2 +1,2 @@
-# Login-Register-Company
- Idea for Login and Register System for a company
+# Login-Register-Template
+ Some ideas for Login and Register Template for a company
